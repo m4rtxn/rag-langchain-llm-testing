@@ -114,3 +114,4 @@ By integrating retrieval and generation, RAG enhances the language model's abili
   - Encourage users to provide feedback and suggestions.
   - Example: Link to a feedback form or GitHub Discussions.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/m4rtxn/rag-langchain-llm-testing)
